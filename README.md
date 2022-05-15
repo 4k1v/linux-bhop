@@ -1,3 +1,5 @@
 # cs_go-bhop-script-linux-
-install "xdotool" via your package manager (u need use X); than just:
- unbind space; bind l +jump;make; ./bhop_script
+install "xdotool" via your package manager (u need use X);<br> 
+than just in csgo commandline: unbind space; bind l +jump;<br>
+make;<br> 
+./bhop_script
